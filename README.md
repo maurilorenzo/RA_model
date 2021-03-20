@@ -4,3 +4,7 @@
 
 Simulation of the evolution of the system and analysis of the steady state.
 Effects on the economy of different fiscal regimes are studied.
+
+To simulate the model run `main.md`
+
+For a in-depth analysis of the results see report2.doc
