@@ -1,4 +1,4 @@
-# RA_model
+# RA-dynamic-model
 
 ## Simulation of a Representative Agent model
 
